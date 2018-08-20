@@ -1,0 +1,10 @@
+.\out\usb_int.o: USBLib\usb_int.c
+.\out\usb_int.o: USBLib\usb_lib.h
+.\out\usb_int.o: USBLib\usb_type.h
+.\out\usb_int.o: .\USBUser\usb_conf.h
+.\out\usb_int.o: USBLib\usb_regs.h
+.\out\usb_int.o: USBLib\usb_def.h
+.\out\usb_int.o: USBLib\usb_core.h
+.\out\usb_int.o: USBLib\usb_init.h
+.\out\usb_int.o: USBLib\usb_mem.h
+.\out\usb_int.o: USBLib\usb_int.h

@@ -1,0 +1,15 @@
+.\out\usb_main.o: USBUser\usb_main.c
+.\out\usb_main.o: .\USBLib\usb_lib.h
+.\out\usb_main.o: .\USBLib\usb_type.h
+.\out\usb_main.o: .\USBUser\usb_conf.h
+.\out\usb_main.o: .\USBLib\usb_regs.h
+.\out\usb_main.o: .\USBLib\usb_def.h
+.\out\usb_main.o: .\USBLib\usb_core.h
+.\out\usb_main.o: .\USBLib\usb_init.h
+.\out\usb_main.o: .\USBLib\usb_mem.h
+.\out\usb_main.o: .\USBLib\usb_int.h
+.\out\usb_main.o: USBUser\usb_desc.h
+.\out\usb_main.o: USBUser\usb_pwr.h
+.\out\usb_main.o: USBUser\usb_endp.h
+.\out\usb_main.o: USBUser\usb_istr.h
+.\out\usb_main.o: USBUser\usb_main.h
